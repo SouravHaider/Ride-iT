@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Ride It",
+    "slug": "ride-it",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0E0F12"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0E0F12"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
