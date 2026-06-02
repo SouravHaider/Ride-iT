@@ -10,15 +10,22 @@ Ride iT is a mobile app concept for recreational motorcyclists, combining turn-b
 
 ## 📱 Screenshots
 
-<p align="center">
-  <img src="screenshots/Login.png"   alt="Login"   width="200" />
-  <img src="screenshots/Map.png"     alt="Map"     width="200" />
-  <img src="screenshots/Profile.png" alt="Profile" width="200" />
-  <img src="screenshots/Music.png"   alt="Music"   width="200" />
-  <img src="screenshots/Logout.png"  alt="Logout"  width="200" />
-</p>
-
-<p align="center"><sub>Login&nbsp;·&nbsp;Map&nbsp;·&nbsp;Profile&nbsp;·&nbsp;Music&nbsp;·&nbsp;Logout</sub></p>
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/Login.png"   alt="Login"   width="160" /></td>
+    <td align="center"><img src="screenshots/Map.png"     alt="Map"     width="160" /></td>
+    <td align="center"><img src="screenshots/Profile.png" alt="Profile" width="160" /></td>
+    <td align="center"><img src="screenshots/Music.png"   alt="Music"   width="160" /></td>
+    <td align="center"><img src="screenshots/Logout.png"  alt="Logout"  width="160" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Login</b></td>
+    <td align="center"><b>Map</b></td>
+    <td align="center"><b>Profile</b></td>
+    <td align="center"><b>Music</b></td>
+    <td align="center"><b>Logout</b></td>
+  </tr>
+</table>
 
 ---
 
