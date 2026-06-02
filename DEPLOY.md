@@ -1,6 +1,6 @@
 # Deploying Ride It to GitHub Pages
 
-Your live demo URL will be: **https://souravhaider.github.io/ride-it/**
+Your live demo URL will be: **https://souravhaider.github.io/Ride-iT/**
 
 All config is already done (`.gitignore`, `experiments.baseUrl` in `app.json`, and
 `build:web` / `deploy` scripts in `package.json`). Just run the steps below on your Mac.
@@ -9,6 +9,9 @@ All config is already done (`.gitignore`, `experiments.baseUrl` in `app.json`, a
 
 ```bash
 cd "path/to/ride-it"
+
+# point the remote at the renamed repo (Ride-iT, case-sensitive)
+git remote set-url origin https://github.com/SouravHaider/Ride-iT.git
 
 # install the deploy helper (already listed in package.json)
 npm install
@@ -38,7 +41,7 @@ doesn't hide the `_expo` folder), and pushes `dist/` to the `gh-pages` branch.
 2. Under "Build and deployment" → Source: **Deploy from a branch**
 3. Branch: **gh-pages**, folder: **/ (root)** → Save
 
-Wait 1–2 minutes, then open **https://souravhaider.github.io/ride-it/**
+Wait 1–2 minutes, then open **https://souravhaider.github.io/Ride-iT/**
 
 ## Updating later
 
@@ -51,7 +54,8 @@ npm run deploy
 
 ## Notes
 
-- The base path is `/ride-it`. If you ever rename the repo, update
+- The base path is `/Ride-iT` and must match the repo name **exactly** (case-sensitive).
+  If you ever rename the repo again, update
   `experiments.baseUrl` in `app.json` to match the new repo name.
 - Expo web renders your React Native app in the browser. Native-only features
   (camera, GPS, push) may not work on the web demo — test the live link before sharing.
