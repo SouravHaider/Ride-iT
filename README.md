@@ -11,14 +11,14 @@ Ride iT is a mobile app concept for recreational motorcyclists, combining turn-b
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/01-login.png"    alt="Login"    width="200" />
-  <img src="screenshots/02-map.png"      alt="Map / GPS" width="200" />
-  <img src="screenshots/03-profile.png"  alt="Profile"  width="200" />
-  <img src="screenshots/04-music.png"    alt="Music"    width="200" />
-  <img src="screenshots/05-settings.png" alt="Settings" width="200" />
+  <img src="screenshots/Login.png"   alt="Login"   width="200" />
+  <img src="screenshots/Map.png"     alt="Map"     width="200" />
+  <img src="screenshots/Profile.png" alt="Profile" width="200" />
+  <img src="screenshots/Music.png"   alt="Music"   width="200" />
+  <img src="screenshots/Logout.png"  alt="Logout"  width="200" />
 </p>
 
-<p align="center"><sub>Login&nbsp;·&nbsp;Map&nbsp;·&nbsp;Profile&nbsp;·&nbsp;Music&nbsp;·&nbsp;Settings</sub></p>
+<p align="center"><sub>Login&nbsp;·&nbsp;Map&nbsp;·&nbsp;Profile&nbsp;·&nbsp;Music&nbsp;·&nbsp;Logout</sub></p>
 
 ---
 
