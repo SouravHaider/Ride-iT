@@ -4,7 +4,15 @@
 
 Ride iT is a mobile app concept for recreational motorcyclists, combining turn-by-turn navigation, music control, ride-sharing with friends, and a safety-first **Riding Mode** in a single, glanceable interface.
 
-[**▶ View the interactive design prototype**](https://xzr77m.axshare.com/)
+[**▶ View the interactive design prototype**](https://xzr77m.axshare.com/) · [**🌐 Live web demo**](https://souravhaider.github.io/Ride-iT/)
+
+---
+
+## 📱 Screenshots
+
+| Login | Map / GPS | Profile | Music |
+|---|---|---|---|
+| ![Login screen](screenshots/01-login.png) | ![Map screen](screenshots/02-map.png) | ![Profile screen](screenshots/03-profile.png) | ![Music screen](screenshots/04-music.png) |
 
 ---
 

@@ -8,7 +8,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "build:web": "expo export -p web && touch dist/.nojekyll",
-    "deploy": "npm run build:web && gh-pages -d dist -t true"
+    "deploy": "npm run build:web && gh-pages -d dist --dotfiles"
   },
   "dependencies": {
     "@expo/metro-runtime": "~6.1.2",
