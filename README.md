@@ -2,7 +2,7 @@
 
 > A GPS navigation + music app for leisure motorbike riders, built with React Native (Expo).
 
-Ride It is a mobile app concept for recreational motorcyclists — combining turn-by-turn navigation, music control, ride sharing with friends, and a safety-first **Riding Mode** in one clean, glanceable interface.
+Ride iT is a mobile app concept for recreational motorcyclists, combining turn-by-turn navigation, music control, ride-sharing with friends, and a safety-first **Riding Mode** in a single, glanceable interface.
 
 [**▶ View the interactive design prototype**](https://xzr77m.axshare.com/)
 
@@ -58,7 +58,7 @@ The Map screen ships with a lightweight stylised placeholder so the app runs in 
 npx expo install react-native-maps
 ```
 
-Then in `src/screens/MapScreen.js`, replace the `<FakeMap />` component with a `<MapView />`. (Note: full `react-native-maps` support requires a development build rather than Expo Go.)
+Then, in `src/screens/MapScreen.js`, replace the `<FakeMap />` component with a `<MapView />`. (Note: full `react-native-maps` support requires a development build rather than Expo Go.)
 
 ## 📁 Project structure
 
